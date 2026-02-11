@@ -192,7 +192,7 @@ export default function Home() {
           <h2 className="text-2xl font-bold">Let&apos;s work together</h2>
           <div className="flex gap-6">
             <a href="mailto:mominayousaf9@gmail.com" className="p-2 bg-white/5 rounded-full hover:bg-white/10 transition-colors" title="Email"><Mail className="w-5 h-5" /></a>
-            <a href="https://linkedin.com/in/momina-yousaf" target="_blank" rel="noopener noreferrer" className="p-2 bg-white/5 rounded-full hover:bg-white/10 transition-colors" title="LinkedIn"><Linkedin className="w-5 h-5" /></a>
+            <a href="https://linkedin.com/in/momina-yousaf9" target="_blank" rel="noopener noreferrer" className="p-2 bg-white/5 rounded-full hover:bg-white/10 transition-colors" title="LinkedIn"><Linkedin className="w-5 h-5" /></a>
           </div>
         </div>
         <div className="mt-8 text-center md:text-left text-gray-500 text-sm">
